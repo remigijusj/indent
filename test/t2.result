@@ -1,0 +1,18 @@
+top
+  variable spaces
+  
+  
+  
+  
+  no indent
+  
+  less than normal
+  
+  more than normal
+  
+  tabs and spaces
+    
+    should align here
+    
+      big indent
+end with newline
